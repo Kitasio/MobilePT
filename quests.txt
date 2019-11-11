@@ -1,0 +1,6 @@
+1. Create android app certificate it and create apk file to run on the phone
+	The main screen should ask for username and pass with 3 tries
+	after 3 wrong tries - the app goes to sleep
+	if succeed - go to page with a dic pic
+
+2. 
